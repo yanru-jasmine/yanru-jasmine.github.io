@@ -1,5 +1,5 @@
 baseURL: "https://yanru-jasmine.github.io/"
-title: ExampleSite
+title: Jasmine Oasis Blog
 copyright: "© [Contributors](https://github.com/yanru-jasmine/yanru-jasmine.github.io/)"
 paginate: 5
 theme: PaperMod
