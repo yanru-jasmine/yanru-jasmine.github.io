@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://yanru-jasmine.github.io/sitemap.xml
